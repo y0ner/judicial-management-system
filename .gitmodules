@@ -1,0 +1,6 @@
+[submodule "judicial-manager-source"]
+	path = judicial-manager-source
+	url = https://github.com/y0ner/judicial-manager-source.git
+[submodule "judicial-manager-bin"]
+	path = judicial-manager-bin
+	url = https://github.com/y0ner/judicial-manager-bin.git
